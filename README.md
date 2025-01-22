@@ -11,8 +11,8 @@ confirmación (commit) del repositorio.
 Uso: "git add ." es para agregar todos lo cambios en el directorio, esto incluira todos 
     los archivos nuevos y modificados en el area de preparacion
 
-    "git add nombre_archivo" esto añadirá únicamente los cambios de ese archivo al área
-    de preparación.
+"git add nombre_archivo" esto añadirá únicamente los cambios de ese archivo al área
+de preparación.
 
 
 
